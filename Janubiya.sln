@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janubiya.API", "Janubiya.API\Janubiya.API.csproj", "{880C5F27-496A-0EC8-85B9-A0F3167A9506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janubiya.Domain", "Janubiya.Domain\Janubiya.Domain.csproj", "{62CC53C0-7AEB-78E7-C648-DCA44108DE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janubiya.Application", "Janubiya.Application\Janubiya.Application.csproj", "{9A6AD584-AA48-3DCC-E4A3-C9EDABF28A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janubiya.Infrastructure", "Janubiya.Infrastructure\Janubiya.Infrastructure.csproj", "{97933F86-112B-F3AD-3310-D48002E82D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880C5F27-496A-0EC8-85B9-A0F3167A9506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880C5F27-496A-0EC8-85B9-A0F3167A9506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880C5F27-496A-0EC8-85B9-A0F3167A9506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880C5F27-496A-0EC8-85B9-A0F3167A9506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CC53C0-7AEB-78E7-C648-DCA44108DE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CC53C0-7AEB-78E7-C648-DCA44108DE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CC53C0-7AEB-78E7-C648-DCA44108DE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CC53C0-7AEB-78E7-C648-DCA44108DE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6AD584-AA48-3DCC-E4A3-C9EDABF28A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6AD584-AA48-3DCC-E4A3-C9EDABF28A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6AD584-AA48-3DCC-E4A3-C9EDABF28A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6AD584-AA48-3DCC-E4A3-C9EDABF28A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97933F86-112B-F3AD-3310-D48002E82D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97933F86-112B-F3AD-3310-D48002E82D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97933F86-112B-F3AD-3310-D48002E82D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97933F86-112B-F3AD-3310-D48002E82D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26F407A5-EE55-4E46-BC1E-4EB815E707E0}
+	EndGlobalSection
+EndGlobal
