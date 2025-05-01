@@ -1,0 +1,16 @@
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/bin/Debug/net9.0/Janubiya.Application.deps.json
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/bin/Debug/net9.0/Janubiya.Application.dll
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/bin/Debug/net9.0/Janubiya.Application.pdb
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/bin/Debug/net9.0/Janubiya.Domain.dll
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/bin/Debug/net9.0/Janubiya.Domain.pdb
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.csproj.AssemblyReference.cache
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.AssemblyInfoInputs.cache
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.AssemblyInfo.cs
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.csproj.CoreCompileInputs.cache
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.sourcelink.json
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.DA8331B1.Up2Date
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.dll
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/refint/Janubiya.Application.dll
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/Janubiya.Application.pdb
+/Users/krishnakavitha/Desktop/Janubiya/Janubiya.Application/obj/Debug/net9.0/ref/Janubiya.Application.dll
