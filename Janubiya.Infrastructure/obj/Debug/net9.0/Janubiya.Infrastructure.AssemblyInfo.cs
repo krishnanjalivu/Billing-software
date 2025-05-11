@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Janubiya.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf5f1714d06c2776f67fbb1fda7a256e63de600")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c81ff356cd81812a93e7400b0848cf32545638e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Janubiya.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Janubiya.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
