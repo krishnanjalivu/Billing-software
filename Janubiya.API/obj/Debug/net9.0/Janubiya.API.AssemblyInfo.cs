@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Janubiya.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c81ff356cd81812a93e7400b0848cf32545638e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf26efeaf540fa5d5adfa5780a609ba28e74e60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Janubiya.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Janubiya.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
